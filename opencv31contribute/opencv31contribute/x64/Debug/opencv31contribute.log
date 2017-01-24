@@ -1,0 +1,506 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of bsp.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are dlib\bsp\bsp.cpp, dlib\test\bsp.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of sockstreambuf.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are dlib\sockstreambuf\sockstreambuf.cpp, dlib\test\sockstreambuf.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are dlib\test\gui\main.cpp, dlib\test\main.cpp, main.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of timer.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are dlib\test\timer.cpp, dlib\timer\timer.cpp.
+  main.cpp
+d:\opencv\opencv31_msvc_build\install\include\opencv2\core\mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\opencv\opencv31_msvc_build\install\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\opencv\opencv31_msvc_build\install\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\opencv\opencv31_msvc_build\install\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\image_transforms\morphological_operations.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  unicode.cpp
+  tokenizer_kernel_1.cpp
+  timer.cpp
+  thread_pool_extension.cpp
+  threads_kernel_shared.cpp
+  threads_kernel_2.cpp
+  threads_kernel_1.cpp
+  threaded_object_extension.cpp
+  multithreaded_object_extension.cpp
+  async.cpp
+  vectorstream.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\vectorstream.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/vectorstream.h': No such file or directory
+  type_safe_union.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\type_safe_union.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/type_safe_union.h': No such file or directory
+  tuple.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tuple.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/tuple.h': No such file or directory
+  trust_region.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\trust_region.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  tokenizer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tokenizer.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/tokenizer.h': No such file or directory
+  timer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\timer.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/timer.h': No such file or directory
+  thread_pool.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\thread_pool.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/misc_api.h': No such file or directory
+  threads.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\threads.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/misc_api.h': No such file or directory
+  tester.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  symmetric_matrix_cache.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  svr_linear_trainer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\svr_linear_trainer.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  svm_struct.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\svm_struct.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/svm_threaded.h': No such file or directory
+  svm_multiclass_linear.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  svm_c_linear_dcd.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\svm_c_linear_dcd.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/svm.h': No such file or directory
+  svm_c_linear.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\svm_c_linear.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  svm.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\svm.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  string.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\string.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\string.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/string.h': No such file or directory
+  std_vector_c.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\std_vector_c.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/stl_checked.h': No such file or directory
+  statistics.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\statistics.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/statistics.h': No such file or directory
+  static_set.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\static_set.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/queue.h': No such file or directory
+  static_map.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\static_map.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/hash_table.h': No such file or directory
+  stack.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\stack.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/stack.h': No such file or directory
+  sparse_vector.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\sparse_vector.cpp(4): fatal error C1083: 無法開啟包含檔案: 'dlib/sparse_vector.h': No such file or directory
+  sockstreambuf.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\sockstreambuf.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/sockets.h': No such file or directory
+  sockets2.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  sockets.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\sockets.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/sockets.h': No such file or directory
+  smart_pointers.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\smart_pointers.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/smart_pointers.h': No such file or directory
+  sliding_buffer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\sliding_buffer.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/sliding_buffer.h': No such file or directory
+  sldf.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  set.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\set.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/set.h': No such file or directory
+  serialize.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\serialize.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/compress_stream.h': No such file or directory
+  sequence_segmenter.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  sequence_labeler.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  sequence.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\sequence.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/sequence.h': No such file or directory
+  scan_image.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\scan_image.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/image_processing.h': No such file or directory
+  sammon.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\sammon.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/statistics.h': No such file or directory
+  rls.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\rls.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/svm.h': No such file or directory
+  reference_counter.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\reference_counter.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/reference_counter.h': No such file or directory
+  read_write_mutex.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\read_write_mutex.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/misc_api.h': No such file or directory
+  ranking.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\ranking.cpp(3): fatal error C1083: 無法開啟包含檔案: 'dlib/svm.h': No such file or directory
+  rand.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\rand.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/rand.h': No such file or directory
+  queue.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\queue.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/queue.h': No such file or directory
+  pyramid_down.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\pyramid_down.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/image_transforms.h': No such file or directory
+  probabilistic.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\probabilistic.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  pixel.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\pixel.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/pixel.h': No such file or directory
+  pipe.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\pipe.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/misc_api.h': No such file or directory
+  parse.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\parse.cpp(3): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  parallel_for.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  opt_qp_solver.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\opt_qp_solver.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  optimization_test_functions.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\optimization_test_functions.h(6): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  optimization.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\optimization_test_functions.h(6): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  one_vs_one_trainer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  one_vs_all_trainer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  oca.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\oca.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  object_detector.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\object_detector.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/statistics.h': No such file or directory
+  numerical_integration.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\numerical_integration.cpp(11): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  multithreaded_object.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\multithreaded_object.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/threads.h': No such file or directory
+  mpc.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\mpc.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/control.h': No such file or directory
+  metaprogramming.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\metaprogramming.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/algs.h': No such file or directory
+  member_function_pointer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\member_function_pointer.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/member_function_pointer.h': No such file or directory
+  md5.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\md5.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/md5.h': No such file or directory
+  max_sum_submatrix.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\max_sum_submatrix.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  max_cost_assignment.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\max_cost_assignment.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  matrix_qr.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix_qr.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  matrix_lu.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix_lu.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  matrix_eig.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix_eig.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  matrix_chol.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix_chol.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  matrix4.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix4.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  matrix3.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix3.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  matrix2.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix2.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  matrix.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\matrix.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  map.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\map.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  main.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\main.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/cmd_line_parser.h': No such file or directory
+  lz77_buffer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\lz77_buffer.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/sliding_buffer.h': No such file or directory
+  lspi.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  linear_manifold_regularizer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  least_squares.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\least_squares.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  learning_to_track.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  kmeans.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\kmeans.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/svm.h': No such file or directory
+  kernel_matrix.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  kcentroid.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\kcentroid.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  is_same_object.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  iosockstream.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\iosockstream.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/iosockstream.h': No such file or directory
+  image.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\image.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/pixel.h': No such file or directory
+  hog_image.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\hog_image.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/image_keypoint.h': No such file or directory
+  hash_table.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\hash_table.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/hash_table.h': No such file or directory
+  hash_set.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\hash_set.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/hash_set.h': No such file or directory
+  hash_map.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\hash_map.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/hash_map.h': No such file or directory
+  hash.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\hash.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/hash.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  main.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\gui\main.cpp(1): fatal error C1083: 無法開啟包含檔案: 'dlib/image_io.h': No such file or directory
+  graph_labeler.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\graph_labeler.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/svm_threaded.h': No such file or directory
+  graph_cuts.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\graph_cuts.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/graph_cuts.h': No such file or directory
+  graph.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\graph.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/graph.h': No such file or directory
+  geometry.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\geometry.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/geometry.h': No such file or directory
+  find_optimal_parameters.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\find_optimal_parameters.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization/find_optimal_parameters.h': No such file or directory
+  find_max_factor_graph_viterbi.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\find_max_factor_graph_viterbi.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  find_max_factor_graph_nmplp.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\find_max_factor_graph_nmplp.cpp(7): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization.h': No such file or directory
+  filtering.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\filtering.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/filtering.h': No such file or directory
+  fhog.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  fft.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\fft.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  face.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  example_args.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  example.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  entropy_encoder_model.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\entropy_encoder_model.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/entropy_encoder_model.h': No such file or directory
+  entropy_coder.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\entropy_coder.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/entropy_encoder.h': No such file or directory
+  empirical_kernel_map.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  elastic_net.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\elastic_net.cpp(4): fatal error C1083: 無法開啟包含檔案: 'dlib/optimization/elastic_net.h': No such file or directory
+  ekm_and_lisf.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  dnn.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\image_transforms\morphological_operations.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  disjoint_subsets.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\disjoint_subsets.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/disjoint_subsets.h': No such file or directory
+  discriminant_pca.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  directed_graph.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\directed_graph.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/directed_graph.h': No such file or directory
+  data_io.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  cublas.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\cublas.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  create_iris_datafile.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\create_iris_datafile.cpp(6): fatal error C1083: 無法開啟包含檔案: 'dlib/compress_stream.h': No such file or directory
+  crc32.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\crc32.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/crc32.h': No such file or directory
+  correlation_tracker.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  config_reader.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\config_reader.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/config_reader.h': No such file or directory
+  conditioning_class_c.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\conditioning_class_c.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/conditioning_class.h': No such file or directory
+  conditioning_class.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\conditioning_class.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/conditioning_class.h': No such file or directory
+  compress_stream.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\compress_stream.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/compress_stream.h': No such file or directory
+  cmd_line_parser_wchar_t.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\cmd_line_parser_wchar_t.cpp(6): fatal error C1083: 無法開啟包含檔案: 'dlib/string.h': No such file or directory
+  cmd_line_parser.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\cmd_line_parser.cpp(6): fatal error C1083: 無法開啟包含檔案: 'dlib/string.h': No such file or directory
+  clustering.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\clustering.cpp(4): fatal error C1083: 無法開啟包含檔案: 'dlib/clustering.h': No such file or directory
+  cca.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\cca.cpp(4): fatal error C1083: 無法開啟包含檔案: 'dlib/statistics.h': No such file or directory
+  byte_orderer.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\byte_orderer.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/byte_orderer.h': No such file or directory
+  bsp.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\bsp.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/bsp.h': No such file or directory
+  bridge.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\bridge.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/bridge.h': No such file or directory
+  vector.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  正在產生程式碼...
+  正在編譯...
+  blas_bindings_scal_axpy.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  blas_bindings_ger.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  blas_bindings_gemv.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  blas_bindings_gemm.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  blas_bindings_dot.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  binary_search_tree_mm2.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\binary_search_tree_mm2.cpp(12): fatal error C1083: 無法開啟包含檔案: 'dlib/memory_manager_global.h': No such file or directory
+  binary_search_tree_mm1.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\binary_search_tree_mm1.cpp(12): fatal error C1083: 無法開啟包含檔案: 'dlib/memory_manager_global.h': No such file or directory
+  binary_search_tree_kernel_2a.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\binary_search_tree_kernel_2a.cpp(12): fatal error C1083: 無法開啟包含檔案: 'dlib/memory_manager_global.h': No such file or directory
+  binary_search_tree_kernel_1a.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\binary_search_tree_kernel_1a.cpp(12): fatal error C1083: 無法開啟包含檔案: 'dlib/memory_manager_global.h': No such file or directory
+  bigint.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\bigint.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/bigint.h': No such file or directory
+  bayes_nets.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\bayes_nets.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/graph_utils.h': No such file or directory
+  base64.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\base64.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/base64.h': No such file or directory
+  assignment_learning.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\tester.h(8): fatal error C1083: 無法開啟包含檔案: 'dlib/map.h': No such file or directory
+  array2d.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\array2d.cpp(9): fatal error C1083: 無法開啟包含檔案: 'dlib/interfaces/enumerable.h': No such file or directory
+  array.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\array.cpp(8): fatal error C1083: 無法開啟包含檔案: 'dlib/interfaces/enumerable.h': No such file or directory
+  any_function.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\any_function.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/any.h': No such file or directory
+  any.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\any.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/any.h': No such file or directory
+  active_learning.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\test\active_learning.cpp(5): fatal error C1083: 無法開啟包含檔案: 'dlib/svm.h': No such file or directory
+  stack_trace.cpp
+  sockstreambuf_unbuffered.cpp
+  正在產生程式碼...
+  正在編譯...
+  sockstreambuf.cpp
+  sockets_kernel_2.cpp
+  sockets_kernel_1.cpp
+  sockets_extensions.cpp
+  server_kernel.cpp
+  server_iostream.cpp
+  server_http.cpp
+  misc_api_kernel_2.cpp
+  misc_api_kernel_1.cpp
+  md5_kernel_1.cpp
+  subprocess_stream.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\matlab\subprocess_stream.h(7): fatal error C1083: 無法開啟包含檔案: 'unistd.h': No such file or directory
+  mex_wrapper.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\image_transforms\morphological_operations.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\matlab\mex_wrapper.cpp(114): fatal error C1083: 無法開啟包含檔案: 'mex.h': No such file or directory
+  example_mex_struct.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\matlab\call_matlab.h(9): fatal error C1083: 無法開啟包含檔案: 'dlib/error.h': No such file or directory
+  example_mex_function.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\matlab\example_mex_function.cpp(3): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  example_mex_class.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\matlab\example_mex_class.cpp(10): fatal error C1083: 無法開啟包含檔案: 'dlib/matrix.h': No such file or directory
+  example_mex_callback.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\matlab\call_matlab.h(9): fatal error C1083: 無法開啟包含檔案: 'dlib/error.h': No such file or directory
+  logger_kernel_1.cpp
+  logger_config_file.cpp
+  extra_logger_headers.cpp
+  linker_kernel_1.cpp
+  正在產生程式碼...
+  正在編譯...
+  save_png.cpp
+  save_jpeg.cpp
+  png_loader.cpp
+  jpeg_loader.cpp
+  http_client.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\http_client\http_client.cpp(459): error C2678: 二元運算子 '<<': 找不到使用左方運算元類型 'std::basic_ostream<char,std::char_traits<char>>' 的運算子 (或是沒有可接受的轉換)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(495): note: 可能是 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(475): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(455): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(435): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(415): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(395): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(375): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(355): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(335): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(315): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(290): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(270): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(236): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(216): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(209): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(202): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(196): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\logger\logger_kernel_1.h(48): note: 或       'std::ostream &dlib::operator <<(std::ostream &,const dlib::log_level &)'
+  d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\sockets\sockets_extensions.h(88): note: 或       'std::ostream &dlib::operator <<(std::ostream &,const dlib::network_address &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(692): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(739): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(777): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(824): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(950): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(957): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(964): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(971): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(981): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,std::ifstream>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)'
+          with
+          [
+              _Ty=std::ifstream
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(1019): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\thread(246): note: 或       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,std::thread::id)'
+  d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\http_client\http_client.cpp(459): note: 當嘗試符合引數清單 '(std::basic_ostream<char,std::char_traits<char>>, std::ifstream)' 時
+  widgets.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  style.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  fonts.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  drawable.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  canvas_drawing.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  base_widgets.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  gui_core_kernel_2.cpp
+  gui_core_kernel_1.cpp
+  jutils.cpp
+  jquant2.cpp
+  jquant1.cpp
+  jmemnobs.cpp
+  jmemmgr.cpp
+  jidctred.cpp
+  jidctint.cpp
+  正在產生程式碼...
+  正在編譯...
+  jidctfst.cpp
+  jidctflt.cpp
+  jfdctint.cpp
+  jfdctfst.cpp
+  jfdctflt.cpp
+  jerror.cpp
+  jdsample.cpp
+  jdpostct.cpp
+  jdphuff.cpp
+  jdmerge.cpp
+  jdmaster.cpp
+  jdmarker.cpp
+  jdmainct.cpp
+  jdinput.cpp
+  jdhuff.cpp
+  jddctmgr.cpp
+  jdcolor.cpp
+  jdcoefct.cpp
+  jdatasrc.cpp
+  jdatadst.cpp
+  正在產生程式碼...
+  正在編譯...
+  jdapistd.cpp
+  jdapimin.cpp
+  jcsample.cpp
+  jcprepct.cpp
+  jcphuff.cpp
+  jcparam.cpp
+  jcomapi.cpp
+  jcmaster.cpp
+  jcmarker.cpp
+  jcmainct.cpp
+  jcinit.cpp
+  jchuff.cpp
+  jcdctmgr.cpp
+  jccolor.cpp
+  jccoefct.cpp
+  jcapistd.cpp
+  jcapimin.cpp
+  entropy_encoder_kernel_2.cpp
+  entropy_encoder_kernel_1.cpp
+  entropy_decoder_kernel_2.cpp
+  正在產生程式碼...
+  正在編譯...
+  entropy_decoder_kernel_1.cpp
+  tensor_tools.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  gpu_data.cpp
+  curand_dlibapi.cpp
+  cudnn_dlibapi.cpp
+  cublas_dlibapi.cpp
+  cpu_dlib.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  dir_nav_kernel_2.cpp
+  dir_nav_kernel_1.cpp
+  dir_nav_extensions.cpp
+  mnist.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  image_dataset_metadata.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  cpp11_test.cpp
+  bsp.cpp
+  bit_stream_kernel_1.cpp
+  bigint_kernel_2.cpp
+  bigint_kernel_1.cpp
+  base64_kernel_1.cpp
+  all_gui.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\all_gui.cpp(6): fatal error C1189: #error:  "This file has been replaced.  Instead you should add dlib/all/source.cpp to your project"
+  all_console.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\all_console.cpp(6): fatal error C1189: #error:  "This file has been replaced.  Instead you should add dlib/all/source.cpp to your project"
+  正在產生程式碼...
+  正在編譯...
+  source.cpp
+d:\project\c\opencv31contribute\opencv31contribute\opencv31contribute\dlib\general_hash\random_hashing.h(685): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+D:\project\C\opencv31contribute\opencv31contribute\opencv31contribute\dlib\all\source.cpp : fatal error C1128: 區段數目超過目的檔格式的限制: 請以 /bigobj 編譯
